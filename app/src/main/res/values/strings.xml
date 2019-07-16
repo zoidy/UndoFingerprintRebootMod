@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UndoFingerprintRebootMod</string>
+    <string name="hello_world">Undo Fingerprint Reboot Mod (for Galaxy Project rom Oreo). Fingerprint unlock will be disabled after reboot. This is the stock behavior.</string>
+
+</resources>
